@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/weatherphp",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "monte-ua",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "*"
+  }
+}
